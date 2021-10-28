@@ -1,2 +1,5 @@
 This file contains all info about the repo created. 
+Git token for my account: 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
+
+Git push https://<token>@github.com/nusratila/reponame
 
